@@ -1,0 +1,10 @@
+# Arquivo de segredos do Streamlit
+.streamlit/secrets.toml
+
+# Arquivos de ambiente virtual do Python
+venv/
+*.pyc
+__pycache__/
+
+# Arquivos de sistema operacional (opcional, mas boa prática)
+.DS_Store
