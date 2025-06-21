@@ -163,7 +163,7 @@ def tela_chat():
                     **Regras Importantes:**
                     1. Sempre baseie sua resposta principal nas informações do contexto. NUNCA invente datas, valores ou detalhes.
                     2. Formule uma resposta clara e amigável. Você pode começar com uma saudação como "Olá!" ou "Com certeza!".
-                    3. Se a resposta exata não estiver no contexto, você pode dizer algo como: "Nos comunicados que consultei, não encontrei o detalhe exato sobre sua pergunta, mas a informação mais próxima que achei foi sobre [mencione o assunto do chunk encontrado]."
+                    3. Se a resposta exata não estiver no contexto, você pode dizer algo como: "Nos comunicados que consultei, não encontrei o detalhe exato sobre sua pergunta, mas a informação mais próxima que achei foi sobre [mencione o assunto do chunk encontrado].Caso não tenha encontrado oque procura, entre em contato com a secretária do Carbonell."
                     4. Ao final da sua resposta, cite o(s) nome(s) do(s) arquivo(s) fonte, assim: "Fonte(s): {', '.join(fontes)}".
                     **Pergunta do Usuário:**
                     {prompt}
